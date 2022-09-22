@@ -12,6 +12,8 @@
   "description": "",
   "dependencies": {
     "axios": "^0.27.2",
+    "Buffer": "^0.0.0",
+    "chalk": "^5.0.1",
     "jsdom": "^20.0.0"
   }
 }
